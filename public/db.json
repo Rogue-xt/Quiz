@@ -1,0 +1,29 @@
+{
+    "quiz":[
+        {
+            "question":" How many legs does a spider have?",
+            "options": ["8","5","2","3"],
+            "answer": "8"
+        },
+        {
+            "question":"What's the name of a place you go to see lots of animals?",
+            "options": ["zoo","PoliceStation","School","Home"],
+            "answer": "zoo"
+        },
+        {
+            "question":"Which is the largest planet in the solar system?",
+            "options": ["Jupiter","Saturn","Mars","Earth"],
+            "answer": "Jupiter"
+        },
+        {
+            "question":"Which animal is known as the 'Ship of the Desert?",
+            "options": ["Camel","Elephant","Squirrel","Dinousar"],
+            "answer": "Camel"
+        },
+        {
+            "question":"How many letters are there in the English alphabet?",
+            "options": ["2","19","26","24"],
+            "answer": "24"
+        }
+    ]
+}
